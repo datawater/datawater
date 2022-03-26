@@ -27,7 +27,7 @@
 <p><a href="https://www.buymeacoffee.com/datawarer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="datawarer" /></a></p><br><br>  
   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=datawater&show_icons=true&theme=dracula&locale=en&layout=compact" alt="datawater" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datawater&hide=html&layout=compact&theme=gruvbox" alt="datawater" /></p>  
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datawater&show_icons=true&theme=dracula&locale=en" alt="datawater" /></p><h1 align="center">Hi 👋, I'm Datawozard</h1>  
 <h3 align="center">I have no idea what im doing and im doing this for fun</h3>  
