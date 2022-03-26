@@ -28,8 +28,10 @@
   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datawater&hide=html&layout=compact&theme=gruvbox" alt="datawater" /></p>  
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datawater&show_icons=true&theme=dracula&locale=en" alt="datawater" /></p><h1 align="center">Hi 👋, I'm Datawozard</h1>  
+
+<br><br>
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datawater&show_icons=true&theme=gruvbox&locale=en" alt="datawater" /></p><h1 align="center">Hi 👋, I'm Datawozard</h1>  
 <h3 align="center">I have no idea what im doing and im doing this for fun</h3>  
   
 <p align="left"> <a href="https://twitter.com/datawater1" target="blank"><img src="https://img.shields.io/twitter/follow/datawater1?logo=twitter&style=for-the-badge" alt="datawater1" /></a> </p>  
