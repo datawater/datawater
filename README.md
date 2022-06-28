@@ -4,7 +4,7 @@
   
 <p align="left"> <a href="https://twitter.com/datawater1" target="blank"><img src="https://img.shields.io/twitter/follow/datawater1?logo=twitter&style=for-the-badge" alt="datawater1" /></a> </p>  
   
-- 🌱 I’m currently learning **C/C++**  
+- 🌱 I’m currently learning **C**  
   
 - 👨‍💻 All of my projects are available at [github.com/datawater](github.com/datawater)  
   
