@@ -10,7 +10,7 @@
   
 - ⚡ Fun fact **I Don't remember how i started programming**  
   
- -👋 I'm looking to collaborate on anything you want!
+ - 👋 I'm looking to collaborate on anything you want!
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
