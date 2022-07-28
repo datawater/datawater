@@ -1,10 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Datawizard</h1>  
+<h1 align="center">Hi, I'm Datawizard</h1>  
 <h3 align="center">I have no idea what im doing</h3>  
   
-<p align="left"> <a href="https://twitter.com/datawater1" target="blank"><img src="https://img.shields.io/twitter/follow/datawater1?logo=twitter&style=for-the-badge" alt="datawater1" /></a> </p>  
-  
-- 🌱 I’m currently learning **C**  
+<p align="left"> <a href="https://twitter.com/thintallpale" target="blank"><img src="https://img.shields.io/twitter/follow/datawater1?logo=twitter&style=for-the-badge" alt="datawater1" /></a> </p>  
   
 - 👨‍💻 All of my projects are available at [github.com/datawater](github.com/datawater)  
   
@@ -12,7 +10,7 @@
   
 - ⚡ Fun fact **I Don't remember how i started programming**  
   
- - I'm looking to collaborate on anything you want!
+ -👋 I'm looking to collaborate on anything you want!
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
