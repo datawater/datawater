@@ -4,7 +4,7 @@
     
 - All of my projects are available at [github.com/datawater](github.com/datawater)  
   
-- How to reach me **datawizard1@gmail.com**
+- How to reach me **datawater1@gmail.com**
 
  - I'm looking to collaborate on anything you want!
   
@@ -17,7 +17,7 @@
 <br>
 
 <h3 align="left">Support:</h3>  
-<p><a href="https://www.buymeacoffee.com/datawater"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="datawarer" /></a></p><br><br>  
+<p><a href="https://www.buymeacoffee.com/datawater"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="datawater" /></a></p><br><br>  
   
 
 <br><br>
