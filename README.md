@@ -1,16 +1,12 @@
 
 <h1 align="center">Hi, I'm Datawizard</h1>  
 <h3 align="center">I have no idea what im doing</h3>  
+    
+- All of my projects are available at [github.com/datawater](github.com/datawater)  
   
-<p align="left"> <a href="https://twitter.com/thintallpale" target="blank"><img src="https://img.shields.io/twitter/follow/thintallpale?logo=twitter&style=for-the-badge" alt="thintallpale" /></a> </p>  
-  
-- 👨‍💻 All of my projects are available at [github.com/datawater](github.com/datawater)  
-  
-- 📫 How to reach me **datawizard1@gmail.com**  or discord **datawater#0433**
-  
-- ⚡ Fun fact **I Don't remember how i started programming**  
-  
- - 👋 I'm looking to collaborate on anything you want!
+- How to reach me **datawizard1@gmail.com**
+
+ - I'm looking to collaborate on anything you want!
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
