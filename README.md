@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Datawizard</h1>  
+<h1 align="center">Hi, I'm Datawater</h1>  
 <h3 align="center">I have no idea what im doing</h3>  
     
 - All of my projects are available at [github.com/datawater](github.com/datawater)  
