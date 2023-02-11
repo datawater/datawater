@@ -9,9 +9,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datawater&show_icons=true&theme=gruvbox&locale=en" alt="datawater" /></p><h1
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datawater&hide=html&layout=compact&theme=gruvbox&lang_count=32" alt="datawater" /></p>  
 <br>
-
-<h3 align="left">Support:</h3>  
-<p><a href="https://www.buymeacoffee.com/datawater"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="datawater" /></a></p><br><br>  
   
 
 <br><br>
